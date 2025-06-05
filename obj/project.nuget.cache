@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKSPYLBG4kI=",
+  "success": true,
+  "projectFilePath": "/Users/egorvasilev/Documents/Институт/C#institut/OOP/lab4opt4/lab4opt4.csproj",
+  "expectedPackageFiles": [
+    "/Users/egorvasilev/.nuget/packages/anglesharp/1.2.0-beta.439/anglesharp.1.2.0-beta.439.nupkg.sha512",
+    "/Users/egorvasilev/.nuget/packages/htmlagilitypack/1.11.71/htmlagilitypack.1.11.71.nupkg.sha512",
+    "/Users/egorvasilev/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/egorvasilev/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/egorvasilev/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
